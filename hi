@@ -1,0 +1,4 @@
+!#/bin/bash
+echo "Hello world!"
+read a
+echo -e "\nVai que dá!"
